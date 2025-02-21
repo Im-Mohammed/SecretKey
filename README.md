@@ -108,19 +108,3 @@ Constant term (c): 3
 If you'd like to improve this project, feel free to fork it and submit a pull request! 🚀
 
 ---
-
-## 📜 License
-This project is **open-source** under the **MIT License**.
-```
-
----
-
-### **✅ Next Steps**
-- Replace `your-username` with your actual GitHub username before pushing.  
-- Add this `README.md` file to your repo:  
-  ```sh
-  git add README.md
-  git commit -m "Added README documentation"
-  git push origin main
-  ```
-- You're all set! 🚀
